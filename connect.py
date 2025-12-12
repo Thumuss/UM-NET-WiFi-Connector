@@ -54,9 +54,6 @@ headers = {
     "Priority": "u=0, i",
 }
 
-
-
-
 def request_with_session(username, password):
     data = {
         "username": username,
